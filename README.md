@@ -1,3 +1,6 @@
+# 🧠 SOC Analyst Labs by Tsega Abebe
+Hands-on projects, Splunk investigations, and blue-team exercises.
+
 # 🧠 SOC Analyst Labs
 
 Hands-on Security Operations Center (SOC) projects and TryHackMe exercises showcasing log analysis, SIEM investigation, and threat detection workflows.  
