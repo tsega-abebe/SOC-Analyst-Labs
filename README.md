@@ -90,4 +90,9 @@ index=vpn_logs sourcetype=_json action="teardown" | stats count by user
 - Performed basic searches: `index=* | stats count by sourcetype`
 - Created visual dashboards to track login activity
 
+---
+📫 **Connect with me:**  
+[LinkedIn](https://www.linkedin.com/in/tsega-abebe-29500496) | [Email](mailto:abe.tsega@gmail.com)
+
+
 
