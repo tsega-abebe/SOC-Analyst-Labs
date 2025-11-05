@@ -1,4 +1,9 @@
 # 🧠 SOC Analyst Labs by Tsega Abebe
+![Python](https://img.shields.io/badge/Python-3.10-blue?logo=python)
+![Splunk](https://img.shields.io/badge/SIEM-Splunk-orange?logo=splunk)
+![TryHackMe](https://img.shields.io/badge/TryHackMe-Labs-red?logo=tryhackme)
+![GitHub](https://img.shields.io/badge/GitHub-Portfolio-black?logo=github)
+
 Hands-on projects, Splunk investigations, and blue-team exercises.
 
 # 🧠 SOC Analyst Labs
