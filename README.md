@@ -65,3 +65,5 @@ index=windowslogs | stats count by EventCode, User
 
 ## Skills Highlighted
 SIEM (Splunk), Incident Response, Threat Detection, Log Analysis, TCP/IP, Python, Linux, Cryptography, IAM, Web Security.
+index=vpn_logs sourcetype=_json action="teardown" | stats count by user
+
