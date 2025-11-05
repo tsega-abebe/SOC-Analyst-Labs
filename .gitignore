@@ -1,0 +1,19 @@
+# Ignore system files
+.DS_Store
+Thumbs.db
+
+# Ignore Python cache and environment folders
+__pycache__/
+*.py[cod]
+.env
+venv/
+env/
+.idea/
+.vscode/
+*.log
+
+# Ignore local data
+*.csv
+*.zip
+*.tar
+*.json
