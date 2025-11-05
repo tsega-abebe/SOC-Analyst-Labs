@@ -33,6 +33,16 @@ Each folder contains exercises designed to strengthen my skills in:
 | **.gitignore** | Ignore unnecessary local files |
 
 ---
+## 📂 Navigation
+- [Day 1](./Day1) – Basic Splunk search and data ingestion  
+- [Day 2](./Day2) – VPN log analysis and user correlation  
+- [Projects](./Projects) – Personal cybersecurity tools  
+- [Splunk Queries](./SplunkQueries) – Detection and response queries
+  
+![Python](https://img.shields.io/badge/Python-3.10-blue?logo=python)
+![Splunk](https://img.shields.io/badge/SIEM-Splunk-orange?logo=splunk)
+![TryHackMe](https://img.shields.io/badge/TryHackMe-Labs-red?logo=tryhackme)
+
 
 ## 🧪 Projects Included
 
@@ -69,4 +79,9 @@ index=windowslogs | stats count by EventCode, User
 ## Skills Highlighted
 SIEM (Splunk), Incident Response, Threat Detection, Log Analysis, TCP/IP, Python, Linux, Cryptography, IAM, Web Security.
 index=vpn_logs sourcetype=_json action="teardown" | stats count by user
+## Day 1: Splunk Data Onboarding & Search
+- Learned how to ingest log files into Splunk Enterprise
+- Performed basic searches: `index=* | stats count by sourcetype`
+- Created visual dashboards to track login activity
+
 
