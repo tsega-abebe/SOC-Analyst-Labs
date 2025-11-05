@@ -8,6 +8,9 @@ It is designed to be recruiter- and ATS-friendly and demonstrates skills in SIEM
 - **Day1/** and **Day2/** — lab notes, searches (SPL), and findings.
 - **SplunkQueries/** — reusable SPL queries.
 - **Projects/** — three portfolio projects (Network Scanner, Image Steganography, Web Biometric Auth).
+- ### 🧠 Featured Projects
+[![SOC Analyst Labs](https://img.shields.io/badge/SOC%20Analyst-Labs-blue?style=flat&logo=github)](https://github.com/tsega-abebe/SOC-Analyst-Labs)
+
 
 ## How to Reproduce
 - Import `SplunkQueries/vpn_logs_queries.spl` into Splunk's Search & Reporting.
