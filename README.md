@@ -76,6 +76,23 @@ A prototype login system using facial recognition APIs and secure hash verificat
 ---
 
 ## 📊 Sample Splunk Queries
+---
+
+## 🏅 Certifications & Completed Labs
+
+| Platform | Room / Course | Focus | Difficulty | Status |
+|-----------|----------------|--------|-------------|----------|
+| 🟢 TryHackMe | [Splunk: Exploring SPL](https://tryhackme.com/room/splunkexploringspl) | Search Processing Language (SPL), Data Analysis, SIEM Querying | 🟠 Medium | ✅ Completed |
+| 🟢 TryHackMe | Additional SOC Labs (Day 1–2) | Splunk Data Onboarding, VPN Log Analysis | 🟢 Easy | ✅ In Progress |
+
+🧠 **Points earned:** 136  
+📅 **Completed tasks:** 8  
+🔥 **Learning streak:** 17 days  
+
+> *Completed the Splunk: Exploring SPL room on TryHackMe — practiced charting, stats, timechart, eval, and visualization commands for real-world SIEM data analysis.*
+
+---
+
 
 ```spl
 index=windowslogs | stats count by EventCode, User
